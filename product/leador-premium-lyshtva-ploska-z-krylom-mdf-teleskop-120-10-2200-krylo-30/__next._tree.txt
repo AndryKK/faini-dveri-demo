@@ -5,4 +5,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"leador-premium-lyshtva-ploska-z-krylom-mdf-teleskop-120-10-2200-krylo-30","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"product","h":64,"c":"$Q2"}]]
-0:{"b":"moMfHQYw8aC9qNKs0_zzW","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"94sJJBktUDcNlyIXY0SHO","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
