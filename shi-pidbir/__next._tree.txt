@@ -4,4 +4,4 @@
 :HL["/faini-dveri-demo/_next/static/media/9d9d8fde33b299ed-s.p.1bk8_xp319hr4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"shi-pidbir","h":64,"c":"$Q2"}]]
-0:{"b":"shl4akdyP4X2MGD9OBOhY","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"HjAusIh2Jylj60AsQhcPk","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
