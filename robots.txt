@@ -1,0 +1,10 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /koshyk
+Disallow: /obrane
+Disallow: /porivnyannya
+Disallow: /poshuk
+Disallow: /prais-lysty
+
+Sitemap: https://www.fainidveri.com.ua/sitemap.xml

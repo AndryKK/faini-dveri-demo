@@ -1,0 +1,8 @@
+:HL["/faini-dveri-demo/_next/static/media/1361b9baaefe9807-s.p.1d_6dtvtn9g3_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/faini-dveri-demo/_next/static/media/3383ca8b946b84c9-s.p.3o02-8iknf6dl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/faini-dveri-demo/_next/static/media/65341aea9fb91af5-s.p.1dqa_6e_ad4sj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/faini-dveri-demo/_next/static/media/9d9d8fde33b299ed-s.p.1bk8_xp319hr4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"category","t":"d","k":"prykhovani-dveri","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"catalog","h":64,"c":"$Q2"}]]
+0:{"b":"9_dtI743qFL--Rc4pGsBO","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
