@@ -11,7 +11,7 @@ f:I[68027,["$d","$e"],"default",1]
 9:X
 a:[["children",{"s":"__PAGE__","h":512,"d":{"r":"$Lb","p":false,"v":null}}]]
 7:[["children",{"s":"garantiya","h":512,"d":{"r":"$L8","p":false,"v":"$9"},"c":"$Qa"}]]
-0:{"P":null,"c":["","garantiya",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","style","0",{"nonce":"$undefined","precedence":"next","href":"/faini-dveri-demo/_next/static/chunks/0xiaans07pgtn.css","children":"$2"}],"$L3","$L4","$L5"],"$L6"]}],"p":false,"v":null},"c":"$Q7"},"h":{"r":"$Lc","p":false,"v":null}},"m":"$undefined","G":["$f",["$L10","$L11"]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"oniWBoHRtEHJAp7SeCx-9"}
+0:{"P":null,"c":["","garantiya",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","style","0",{"nonce":"$undefined","precedence":"next","href":"/faini-dveri-demo/_next/static/chunks/0xiaans07pgtn.css","children":"$2"}],"$L3","$L4","$L5"],"$L6"]}],"p":false,"v":null},"c":"$Q7"},"h":{"r":"$Lc","p":false,"v":null}},"m":"$undefined","G":["$f",["$L10","$L11"]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"afMs1MEYzN_WJmoe4fj4s"}
 13:I[22016,["$d","$e"],""]
 14:"$Sreact.suspense"
 15:I[53736,["$d","$e"],"SearchBox"]
